@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ResetButton" type="id" />
+    <item name="Password" type="id" />
+    <item name="LoginButton" type="id" />
+    <item name="UserName" type="id" />
+    <item name="LoginId" type="id" />
+</resources>
